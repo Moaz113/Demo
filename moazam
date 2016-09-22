@@ -1,0 +1,103 @@
+RESUME
+  Moazam  Hussain  	                                                                            Cell:  9000007861      Email:  moaz113@gmail.com
+11+ years of IT experience, capable of working independently with minimum supervision, and committed to providing high quality service to every project, with focus on Linux/Solaris/AIX/Vmware/VCS/VxVm administration. And a self motivated individual, quick learner, adapt well with changes in a fast paced environment who has been consistently performs in challenging environments.
+
+Professional Objective:
+•	11+ years of experience in all aspects of Linux/Unix System Administration, Server Builds and Application support of Red Hat Linux,SUSELinux, SunSolaris, IBM AIX,  Apache and VMware.  
+•	Installation, Up gradation, configuration and Capacity Planning of Unix/Linux infrastructure for mid to large data centers. 
+•	Monitoring and administrating of Red Hat Linux, SUSE Linux on Enterprise class servers and Sun Solaris Servers for operating systems, patches, packages, hardware, firmware drivers etc.
+•	Over 3 years of experience in Building and supporting environments consisting Testing, Contingency, Production and Disaster Recovery servers 
+•	Experience in using hardware and software RAID (0/1/5) installation, configuration of volume management using VERITAS Volume Manager (3.5/4.x/5.0) and Logical Volume Manager. 
+•	Extensively worked on Veritas File System (4.x/5.x/6.0), VERITAS Cluster (3.x/4.x),VERITAS Volume Manager and Logical Volume Manager for Disk management, Mirroring.
+•	Experience in planning, documenting and supporting high availability, data replication, business persistence, fail-over and fail-back processes.
+•	Experience in using supporting job automation using HPSA and Control-M jobs.
+•	Expertise in systems performance monitoring & tuning: CPU, Disk, Memory, Network Utilization. 
+•	Experience in setting up network environment using UFS, ZFS, NFS, NIS, DNS and DHCP.
+•	Proficient in Backup utilities, restoring using VERITAS NetBackup. 
+•	Proficient in design, implementation and testing of LDAP directory infrastructures.
+•	GExperience working on LAN/WAN and TCP/IP Protocols (Telnet, FTP. etc).
+•	VmWare Admin, worked on Vmotion, SVmotion, DRS, P to V migration. 
+•	Migration experience on Heterogenious platforms.
+
+Technical Skills:
+Operating Systems	RedHat LINUX Release 4.x, 4.x, 6.x, SUSE 9/10/11, Solaris release 10, 9, 2.10/2.9/2.8/2.7/2.6, AIX 5.0/5.x/6.1, Windows 200 server, Win 7 and Win 8.
+Clustering	Red hat Clustering and VERITAS Cluster server.. 
+Hardware	Dell PowerEdge servers X86, HP ProLiant BL680c G5 server ,Sun Enterprise 420,420R, 450, 3500, 4500, 6500 Servers, Sunfire 4800 & 6800, M- Class Servers, Sun Sparc work stations, AMD64 ABI X86 ,  HP 9000 servers, IBM R6000, Pseries.
+Software and App servers. 	Solaris Volume Manager (SVM), VERITAS Volume Manager (VxVm), VERITAS Net backup (VNB), LVM, Samba Server, RAID, DHCP, NFS, NIS, DNS, DHCP, Send mail, LDAP, Apache Web Server.
+Backup Tools	VERITAS Net Backup and ufsdump, Global Service Desk (Ticketing Tool), Server Demise, AMDB (InventoryTool), BMC Patrol (Monitoring Tool) and Key performance Indicator
+    (Reporting tool), Mosfet (audit remediation tool), Plexus (performance       
+    statistics) tool
+
+
+
+
+
+Education:
+
+Bachelors in Computer Science and Engineering, 2004 – JNTU - Hyderabad, India
+Sun Certified Solaris 10 System Administrator (SCSA-1) & (SCSA-2).
+
+
+Professional Experience:
+
+Senior Technical Analyst	
+HSBC  Electronic Data Processing Center 				                            May 2008 – Sep 2015
+
+Project Description:
+I am responsible for providing Server Administration, Troubleshooting, Patching, Configuring and Support to 4 enterprise level data centers in the Unix Server environment (RHEL 4/5x/6x, Solaris 8/9/10 and IBM AIX 4.3/5.1/5.2/5.3).
+
+Environnent:
+Solaris 2.7, 2.8, 2.9, Solaris 10, RedHat Linux (RHEL 4/5/6), SunFire V880, Enterprise Server E3800, E6000/6500, M4000,M5000,M900,T5220,T5240, Splunk, LVM, Veritas Volume Manager, SAN, NFS, SMF and VCS.
+
+Responsibilities:
+	Working as a Unix/Linux Administrator to resolveend-user and auto-generated incidents/issueson production and developmentservers. 
+	Fixes critical issues like server down, hardware failure, NIC issues, mount problems, disk failures, NFS issuesand performance issues.
+	Upgrading Solaris/Linux servers and applying security patches and fixes. 
+	RHEL Server provisioning, upgrades, Patching, configuration and performance tuning in physical and Virtual environments.
+	Upgraded 4 boxes (32- and 64-bit) from SUSE11.1 to 11.2 with no un-resolvable issues.
+	Creation, Installation and administration of Red Hat Virtual machines in VMware Environment
+	Monitor the SUN/Linux/AIX servers to free up disk space by removing unnecessary files.
+	Analyze and diagnosis system failures recover and restore operating systems and file systems.
+	Workon ALOM consoles, HP & IBM Blades for performing administrative tasks like hardware replacements, analyzing console logs, collecting DSA logs and performing server reboots.
+	I work on WorkOrders (user requests) like adding new storage lunsto the server, creating new filesystems, resizing the filesystem, disk partitioning, package installationsand file/folder access requests
+	Handling crisis calls and assisting with production issues, vendor escalations for any hardware replacements and analysing core dumps
+	Solaris & Linux live upgrades.
+	Solaris to Linux migrations on physical virtual environments.
+	Account Management- Adding, deleting, modifying user accounts, granting access, etc.
+	Managing cron jobs, batch processing and job scheduling.
+	Migrations and Decommissioning of the UNIX servers.
+	Replacing the disks (mirror) under VxVM, SVM (Solaris), LVM, and attaching the mirrors back.
+	Deploying and managing Veritas Volume Manager and Veritas Cluster Server for disk partitioning and HA needs.
+	Designing build/configure documentation related to Solaris/Red Hat Enterprise Linux via Jumpstart/Kickstart. 
+	Implementing LDAP to authenticate through AD.
+	Managing and configuring multipath based solution and interfacing with Storage Administrators to configure EMC SAN based LUNs in Oracle Solaris Environment.
+	VmWare administration. Having good experience in handling Virtual environment, like VMOTION, SVMOTION, DRS, Physical to Virtual migration.
+	Experience with VMware Virtualization using ESX hypervisor of Vsphere 5.5 
+
+
+INFOPATH SOLUTIONS PVT, Ltd.							June 2004 to April 2008
+
+Description:
+I am a team member of a group consist of 6 member and a Team leader .In my duties as a Field 
+Engineer and Network engineer. I am responsible for the maintenance and installation of Windows/Linux/Solaris/Mac OS.  Assemble a Desktops, Laptops, troubleshooting, installation of software, configuring a LAN & MAN configuring patch panels, managing user accounts, creating policies etc.
+
+
+
+Responsibilities:
+•	Installation of Linux/Solaris/Mac OS, Windows XP, Vista, WIN7/8, WIN 2000/NT/2003-Server Operating Systems, Upgrading OS version.
+•	Configuring small scale LAN.
+•	Troubleshooting at hardware and OS level. 
+•	User administration.
+•	Analyzing & providing solutions for user raised problem.
+•	Installing antivirus and cleaning pc.
+•	Assembling desktops computers.
+•	Attending user calls and fixing the hardware and software related issues.
+•	Provides complex troubleshooting assistance and ticket resolution for computer users.
+•	Performs or guides customers through the installation of hardware/software and networking components on their personal computer to meet computer needs.
+•	Diagnoses and troubleshoots problems with individual or multiple computer systems in order to maintain proper functioning; resolves issues of complexity including contacting and assisting vendors.
+•	Performs computer studies and projects relative to area of assignment; implements change in policies and/or procedures as approved.
+•	Assists in the design and development of standardized operational management reports in order to identify issues or monitor computers.
+•	Researches, analyzes and provides hardware/software quotations, ordering information and other purchasing information to users to assist in purchasing necessary equipment.
+•	Provides expertise to various parties’ vendors, customers, etc. regarding personal computers in area of assignment; supports personal computer changes and problem resolutions.
+
+
